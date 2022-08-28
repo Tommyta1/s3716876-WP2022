@@ -327,3 +327,21 @@ echo Thumbs.db >> .gitignore
 git add -A
 git commit -m 'a4'
 git push
+[s3716876@csitprdap03 ~]$
+ssh s3716876@jupiter.csit.rmit.edu.au
+ssh s3716876@jupiter.csit.rmit.edu.au
+cd
+git init
+git add README.md
+git add README.txt
+git status
+git add.
+git add .
+git status
+git commit -m "first commit" .
+git status
+git init
+git commit - m "2nd commit" .
+git
+git commit
+git commit -a 
