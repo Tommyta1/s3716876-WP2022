@@ -1,2 +1,5 @@
 [core]
 	excludesFile = .gitignore
+[user]
+	name = Tommy
+	email = s3716876@student.rmit.edu.au

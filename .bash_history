@@ -345,3 +345,16 @@ git commit - m "2nd commit" .
 git
 git commit
 git commit -a 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Tommyta1/s3716876-Assignment1
+git push -u origin main
+git commit -m "123"
+cd
+git init
+git add
+got add /
+git add .
+git commit
