@@ -358,3 +358,26 @@ git add
 got add /
 git add .
 git commit
+git commit
+git init -b main
+git init
+git add .
+git commit -m "First commit:
+
+
+cd
+"
+git config --global user.name Tommy Ta
+git config --global user.email s3716876@student.rmit.edu.au
+git init
+git add .
+git commit -m "first commit"
+git remove add origin https//github.com/Tommyta1/s3716876-Assignment1.git
+git remote add origin https//github.com/Tommyta1/s3716876-Assignment1.git
+git remote add origin git@github.com/Tommyta1/s3716876-Assignment1
+git remove origin
+git remote add origin git@github.com/Tommyta1/s3716876-Assignment1
+git remote set-url
+git remote set-url origin https://github.com/Tommyta1/s3716876-Assignment 1
+git remote add origin git@github.com/Tommyta1/s3716876-Assignment 1
+git push -u origin master
